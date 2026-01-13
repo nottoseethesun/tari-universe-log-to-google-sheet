@@ -82,7 +82,7 @@ For complete documentation, including:
 - Undo advice
 - Safety notes
 
-**Refer to the large comment block at the top of the file** `TariRewardsCleaner.gs` — it contains the full, self-contained explanation.
+**Refer to the large comment block at the top of the file** `cleanUpTariUniverseCopyPaste.gs` — it contains the full, self-contained explanation.
 
 ## License
 
