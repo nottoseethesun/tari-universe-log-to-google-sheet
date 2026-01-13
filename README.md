@@ -88,4 +88,6 @@ For complete documentation, including:
 
 Apache License 2.0 — feel free to use, modify, and share.
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Happy Tari mining & reward tracking! 🚀
