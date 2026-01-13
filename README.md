@@ -55,7 +55,7 @@ Date                  Reward
 1. Open your Google Spreadsheet containing the Tari mining data
 2. Go to **Extensions → Apps Script**
 3. Delete any default code in the editor
-4. Paste the entire contents of [`TariRewardsCleaner.gs`](./TariRewardsCleaner.gs)
+4. Paste the entire contents of [`cleanUpTariUniverseCopyPaste.gs`](./cleanUpTariUniverseCopyPaste.gs)
 5. Save the project (Ctrl+S or Cmd+S)
 6. Reload the spreadsheet tab (Ctrl+R / Cmd+R or Ctrl+Shift+R / Cmd+Shift+R for hard refresh)
 7. You should now see a new menu item in the top bar: **Tari Tools**
